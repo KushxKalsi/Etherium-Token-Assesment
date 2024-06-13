@@ -29,5 +29,3 @@ Use the mint function to add tokens to an address.
 Use the burn function to remove tokens from an address, ensuring the address has sufficient balance.
 # Authors
 Kush Kalsi
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
