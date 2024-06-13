@@ -16,7 +16,7 @@ To run this program, you can use Remix, an online Solidity IDE:
 * Copy and paste the code provided above into the new file.
 # Compile the code:
 Click on the "Solidity Compiler" tab in the left-hand sidebar.
-Make sure the "Compiler" option is set to "0.8.18" (or another compatible version).
+Make sure the "Compiler" option is set to "0.8.26" (or another compatible version).
 Click on the "Compile Animation.sol" button.
 
 # Deploy the contract:
